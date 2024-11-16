@@ -1,17 +1,17 @@
 # My-first-Telegram-bot
-Eng:🇬🇧
+Eng:
 Hello! It's one of templates for telegran bot
 What it can?
 Identifies photos of pigs and cows
 (I know this is not a good template)
 
-Rus:🇷🇺
+Rus:
 Привет! Это один из шаблонов для телеграм бота
 Что он может?
 Определять фотографии свиней и коров
 (я знаю это не самый хороший шаблон)
 
-Por:🇵🇹
+Por:
 Olá! É um dos modelos para o bot telegran
 O que pode?
 Identifica fotos de porcos e vacas
